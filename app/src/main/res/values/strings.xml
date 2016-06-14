@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Spider Induction 2016</string>
+    <string-array name="DEPARTNEMT">
+        <item>ICE</item>
+        <item>MECHANICAL</item>
+        <item>EEE</item>
+        <item>CIVIL</item>
+        <item>ECE</item>
+        <item>CHEMICAL</item>
+        <item>ARCHITECTURE</item>
+        <item>METTALURGY</item>
+        <item>PRODUCTION</item>
+        <item>COMPUTER SCIENCE</item>
+    </string-array>
+
+</resources>
